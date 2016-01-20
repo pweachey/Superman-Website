@@ -1,0 +1,21 @@
+img{
+    border: 10px solid yellow; 
+}
+
+h1{
+    font-size: 63px;
+    display: inline-block;
+    border: 5px solid Yellow
+    
+}
+
+h2{
+    font-size: 34;
+    display: inline-block;
+    border: 5px solid Yellow;
+}
+
+h3{
+ display: inline-block
+}
+
